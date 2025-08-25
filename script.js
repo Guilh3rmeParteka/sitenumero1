@@ -18,8 +18,8 @@ function responder(estilo) {
       break;
     case 'defesa':
       jogador = {
-        nome: "Éder Militão",
-        imagem: "img/militao.jpg",
+        nome: "Rudiger",
+        imagem: "img/rudiger.jpg",
         descricao: "Você é o muro da defesa, sempre confiável."
       };
       break;
